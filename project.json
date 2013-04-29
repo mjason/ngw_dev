@@ -1,4 +1,6 @@
 {
   "name": "ngw",
-  "packages":[]
+  "packages":[
+    "github.com/gorilla/mux"
+  ]
 }
